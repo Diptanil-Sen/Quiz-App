@@ -138,7 +138,7 @@ Quiz-App
 Clone the repository
 
 ```bash
-git clone git@github.com:YOUR_USERNAME/Quiz-App.git
+git clone git@github.com:Diptanil-Sen/Quiz-App.git
 ```
 
 Open the project in **Android Studio**
@@ -164,13 +164,13 @@ Run the application on an Android Emulator or Physical Device.
 
 ## 👨‍💻 Developer
 
-**Dipti Choubey**
+**Diptanil Sen**
 
 Android Developer | Kotlin Developer
 
-GitHub: https://github.com/Dipti-Choubey-101
+GitHub: https://github.com/Diptanil-Sen
 
-LinkedIn: https://www.linkedin.com/in/dipti-choubey-642645339
+LinkedIn: https://www.linkedin.com/in/diptanil-sen/
 
 ---
 
