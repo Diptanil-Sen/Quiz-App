@@ -10,7 +10,6 @@ object Constants{
     fun getQuestions():MutableList<Question>{
         val questions= mutableListOf<Question>()
 
-        
         val ques1=Question(
             1,"What country does this this Flag belong?",
             R.drawable.italy_flag,"Italy","India","Iran","Ireland",
