@@ -10,6 +10,7 @@
     android:padding="16dp"
     android:background="@drawable/bg"
     android:gravity="center">
+
     
     <TextView
         android:text="@string/quiz_app"
